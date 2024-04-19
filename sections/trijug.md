@@ -11,22 +11,6 @@
 * Join us: <a href="https://meetup.com/Triangle-Java-Users-Group/">meetup.com/Triangle-Java-Users-Group/</a>
 * Twitter: <a href="https://twitter.com/TriangleJava">@TriangleJava</a>
 
---slide--
-
-# Why not vounteer?
-* Expand your network
-* Become a leader in this community
-* Professional growth
-* Looks great on a resume and makes you a hit at parties
-
-
---slide--
-
-# Who is hiring?
-
---slide--
-
-# Who is looking for work?
 
 --slide--
 
@@ -49,4 +33,21 @@
 * Email: present@trianglejava.dev
 <!-- Maybe we should have a CFP -->
 
-<!-- Community events go here -->
+<!-- Community events go here on a new slide -->
+
+--slide--
+
+# Who is hiring?
+
+--slide--
+
+# Who is looking for work?
+
+--slide--
+
+# Why not vounteer?
+* Expand your network
+* Become a leader in this community
+* Professional growth
+* Looks great on a resume and makes you a hit at parties
+
