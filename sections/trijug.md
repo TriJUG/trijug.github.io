@@ -1,8 +1,7 @@
-## Triangle Java Users Group
-<em>presents...</em>
+### Triangle Java Users Group Presents...
 # Folks, THIS is Apache Kafka
 ### by Sandon Jacob
-#### May 20, 2024
+May 20, 2024
 
 --slide--
 
