@@ -1,7 +1,7 @@
 ### Triangle Java Users Group Presents...
-# Folks, THIS is Apache Kafka
-### by Sandon Jacob
-May 20, 2024
+# Jakarta EE meets AI
+### by Ivar Grimstad
+September 9, 2024
 
 --slide--
 
@@ -20,22 +20,7 @@ May 20, 2024
 * Twitter: <a href="https://twitter.com/TriangleJava">@TriangleJava</a>
 
 
---slide--
 
-# Upcoming Events
-* July 15 - Billy Korando, Modern Java
-* September 9 - Ivar Grimstad, Jakarta EE
-
---slide--
-
-# Lightning Talks!
-* November 18th Meetup
-* 5-ish to 7-ish minutes on any Java-related topic!
-* You CAN do this! First-timers highly encouraged!
-
-<!-- TODO: Add email address -->
-
-<!-- Community events go here on a new slide -->
 
 --slide--
 

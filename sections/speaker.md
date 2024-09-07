@@ -1,6 +1,6 @@
 ## Our Speaker...
 
-# Sandon Jacobs
-- Senior Developer Advocate at Confluent 
-- Formerly SAS Institute, NBCUniversal, Digital Turbine/Appia, Railinc, Duke Health, BCBSNC
-- Works with Java, Scala, Kotlin, Groovy
+# Ivar Grimstad
+- Jakarta EE Developer Advocate at Eclipse Foundation
+- JCP Executive Committee Member
+- Java Champion! JUG Leader! Open Source Contributor!
