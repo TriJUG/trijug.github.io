@@ -1,6 +1,6 @@
 ## Our Speaker...
 
-# Ivar Grimstad
-- Jakarta EE Developer Advocate at Eclipse Foundation
-- JCP Executive Committee Member
-- Java Champion! JUG Leader! Open Source Contributor!
+# Andrus Adamchik
+- Member of the Apache Software Foundation
+- Dedicated open source project founder and commiter - Apache Cayenne, Bootique.io, and DLib
+- Runs a software company called ObjectStyle

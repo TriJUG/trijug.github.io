@@ -1,7 +1,31 @@
-### Triangle Java Users Group Presents...
-# Jakarta EE meets AI
-### by Ivar Grimstad
-September 9, 2024
+#### Triangle Java Users Group Presents...
+# DataFrame
+## _A Swiss Army Knife of Java Data Processing_
+### by Andrus Adamchik
+February 18, 2025
+
+--slide--
+
+# Stay In Touch
+
+* Join us: <a href="https://meetup.com/Triangle-Java-Users-Group/">meetup.com/Triangle-Java-Users-Group/</a>
+
+--slide--
+
+### _Next Meetup_
+
+# Building AI powered applications with Java
+* Presented by Andres Almiray
+* Thursday, March 13, 2025 at Deutsche Bank
+
+--slide--
+
+# Why not vounteer?
+* Expand your network
+* Become a leader in the community
+* Personal and professional growth
+* Looks great on a resume and makes you a hit at parties
+
 
 --slide--
 
@@ -11,31 +35,4 @@ September 9, 2024
 
 # Who is looking?
 
-
---slide--
-
-# Stay In Touch
-
-* Join us: <a href="https://meetup.com/Triangle-Java-Users-Group/">meetup.com/Triangle-Java-Users-Group/</a>
-* Twitter: <a href="https://twitter.com/TriangleJava">@TriangleJava</a>
-
-
-
-
---slide--
-
-# Call for Speakers
-* Talk to Jim, Todd, or Scott
-<!-- TODO: Add email address -->
-<!-- Maybe we should have a CFP -->
-
-
-
---slide--
-
-# Why not vounteer?
-* Expand your network
-* Become a leader in the community
-* Professional growth
-* Looks great on a resume and makes you a hit at parties
 

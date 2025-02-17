@@ -8,11 +8,14 @@
 x-x-slide-x-x
 
 -->
+<!-- If food sponsored separately from space
 
 # Food Sponsor
 <img src="images/logos/deutsche-bank.jpg" style="border:none; box-shadow:none; background:white;"/>
+x-x-slide-x-x
+-->
 
---slide--
+
 
 # Sponsor
-<img src="images/logos/wake-tech.jpg" style="border:none; box-shadow:none; background:white;"/>
+<img src="images/logos/deutsche-bank.jpg" style="border:none; box-shadow:none; background:white;"/>
