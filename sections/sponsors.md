@@ -17,5 +17,5 @@ x-x-slide-x-x
 
 
 
-# Sponsor
+### Sponsor
 <img src="images/logos/deutsche-bank.jpg" style="border:none; box-shadow:none; background:white;"/>

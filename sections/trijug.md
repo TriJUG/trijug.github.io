@@ -1,8 +1,7 @@
 #### Triangle Java Users Group Presents...
-# DataFrame
-## _A Swiss Army Knife of Java Data Processing_
-### by Andrus Adamchik
-February 18, 2025
+# Building AI Powered Applications with Java
+### by Andres Almiray
+March 13, 2025
 
 --slide--
 
@@ -14,9 +13,7 @@ February 18, 2025
 
 ### _Next Meetup_
 
-# Building AI powered applications with Java
-* Presented by Andres Almiray
-* Thursday, March 13, 2025 at Deutsche Bank
+# TBD!
 
 --slide--
 
