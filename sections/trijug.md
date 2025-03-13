@@ -17,7 +17,14 @@ March 13, 2025
 
 --slide--
 
-# Why not vounteer?
+# JavaOne!
+### March 18-20, Redwood Shores, CA
+- https://javaone.com
+- **$100 OFF** code **J1D100_JUG**
+
+--slide--
+
+# Why not volunteer?
 * Expand your network
 * Become a leader in the community
 * Personal and professional growth
