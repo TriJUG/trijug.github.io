@@ -1,7 +1,6 @@
 #### Our Speaker...
 
-# Andres Almiray
-- Java Champion Alumni, Developer Advocate for the Database Group At Oracle
-- Groovy, Griffon, DbUnit, Eclise, and Apache Committer
-- Author of JReleaser 
-- Founding member of the Griffon framework and Hackergarten community event
+# Andrus Adamchik
+- Member of the Apache Software Foundation
+- Dedicated open source project founder and commiter - Apache Cayenne, Bootique.io, and DLib
+- Runs a software company called ObjectStyle

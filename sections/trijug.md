@@ -1,26 +1,32 @@
 #### Triangle Java Users Group Presents...
-# Building AI Powered Applications with Java
-### by Andres Almiray
-March 13, 2025
+# DataFrame
+## _A Swiss Army Knife of Java Data Processing_
+### by Andrus Adamchik
+April 30, 2025
 
 --slide--
 
 # Stay In Touch
 
-* Join us: <a href="https://meetup.com/Triangle-Java-Users-Group/">meetup.com/Triangle-Java-Users-Group/</a>
+* Meetup: meetup.com/Triangle-Java-Users-Group/
+* Bluesky: @trijug.dev
 
 --slide--
 
-### _Next Meetup_
+# Discord!
 
-# TBD!
+<img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
+
 
 --slide--
 
-# JavaOne!
-### March 18-20, Redwood Shores, CA
-- https://javaone.com
-- **$100 OFF** code **J1D100_JUG**
+## Next Meetup
+
+### Michael Nichols @ Temporal.io
+
+Monday, May 12, 2025
+
+At Deutsche Bank
 
 --slide--
 
