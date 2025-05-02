@@ -1,8 +1,7 @@
 #### Triangle Java Users Group Presents...
-# DataFrame
-## _A Swiss Army Knife of Java Data Processing_
-### by Andrus Adamchik
-April 30, 2025
+# Build Invincible Apps With Temporal
+### by Mike Nichols
+May 12, 2025
 
 --slide--
 
@@ -13,18 +12,20 @@ April 30, 2025
 
 --slide--
 
-# Discord!
+# discord.trijug.dev
 
 <img src="images/qr/qr-discord.png" height="400" width="400" style="border:none; box-shadow:none; background:white;"/>
 
 
 --slide--
 
-## Next Meetup
+# Next Meetup
 
-### Michael Nichols @ Temporal.io
+## Neurodivergent Minds in Software
+## Friction and Flow at Work
+#### by Jim Scarborough
 
-Monday, May 12, 2025
+Monday, June 2, 2025
 
 At Deutsche Bank
 
@@ -35,14 +36,4 @@ At Deutsche Bank
 * Become a leader in the community
 * Personal and professional growth
 * Looks great on a resume and makes you a hit at parties
-
-
---slide--
-
-# Who is hiring?
-
---slide--
-
-# Who is looking?
-
 

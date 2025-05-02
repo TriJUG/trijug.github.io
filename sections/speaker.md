@@ -1,6 +1,5 @@
 #### Our Speaker...
 
-# Andrus Adamchik
-- Member of the Apache Software Foundation
-- Dedicated open source project founder and commiter - Apache Cayenne, Bootique.io, and DLib
-- Runs a software company called ObjectStyle
+# Mike Nichols
+- Solutions Architect at Temporal
+- 20+ years experience developing software 
