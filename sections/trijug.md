@@ -1,7 +1,8 @@
 #### Triangle Java Users Group Presents...
-# Build Invincible Apps With Temporal
-### by Mike Nichols
-May 12, 2025
+## Neurodivergent Minds in Software
+## Friction and Flow at Work
+#### by Jim Scarborough
+June 2, 2025
 
 --slide--
 
@@ -21,11 +22,11 @@ May 12, 2025
 
 # Next Meetup
 
-## Neurodivergent Minds in Software
-## Friction and Flow at Work
-#### by Jim Scarborough
+## Lightning in a JAR
+## Faster Startups and more with AOT!
+#### by Billy Korando
 
-Monday, June 2, 2025
+Monday, June 23, 2025
 
 At Deutsche Bank
 
@@ -35,5 +36,5 @@ At Deutsche Bank
 * Expand your network
 * Become a leader in the community
 * Personal and professional growth
-* Looks great on a resume and makes you a hit at parties
+* Looks great on a résumé and makes you a hit at parties
 

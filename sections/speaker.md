@@ -1,5 +1,5 @@
 #### Our Speaker...
 
-# Mike Nichols
-- Solutions Architect at Temporal
-- 20+ years experience developing software 
+# Jim Scarborough
+- Former TriJUG President
+- 25 years of experience in open source and enterprise development
