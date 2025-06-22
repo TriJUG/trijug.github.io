@@ -1,8 +1,8 @@
 #### Triangle Java Users Group Presents...
-## Neurodivergent Minds in Software
-## Friction and Flow at Work
-#### by Jim Scarborough
-June 2, 2025
+## Lightning in a JAR
+## Faster Startups and more with AOT!
+#### by Billy Korando
+June 23, 2025
 
 --slide--
 
@@ -22,13 +22,21 @@ June 2, 2025
 
 # Next Meetup
 
-## Lightning in a JAR
-## Faster Startups and more with AOT!
-#### by Billy Korando
+## Stream Gatherers: The Missing Link in Java Collections
+#### by Todd Ginsberg
 
-Monday, June 23, 2025
+Monday, July 28, 2025
 
 At Deutsche Bank
+
+--slide--
+
+# KCDC 2025
+
+* August 13-15 @ KCMO
+* Tickets on Sale Now
+* https://kcdc.info
+
 
 --slide--
 

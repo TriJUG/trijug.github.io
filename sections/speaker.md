@@ -1,5 +1,5 @@
 #### Our Speaker...
 
-# Jim Scarborough
-- Former TriJUG President
-- 25 years of experience in open source and enterprise development
+# Billy Korando
+- Java Developer Advocate with the Java Platform Group at Oracle
+- Kansas City JUG Organizer
