@@ -29,6 +29,14 @@ Monday, September 22, 2025
 
 At Deutsche Bank
 
+
+--slide--
+
+# dev2next
+
+* Sept 29 - Oct 2 @ Colorado Springs, CO
+* Run by Venkat Subramaniam
+
 --slide--
 
 # DevNexus
