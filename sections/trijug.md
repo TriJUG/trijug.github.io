@@ -1,8 +1,8 @@
 #### Triangle Java Users Group Presents...
-## Lightning in a JAR
-## Faster Startups and more with AOT!
-#### by Billy Korando
-June 23, 2025
+## The Java Legacy Code Survival Guide:
+## Add Features Without Fear
+#### by Steven Diamante
+August 25, 2025
 
 --slide--
 
@@ -25,18 +25,22 @@ June 23, 2025
 ## Stream Gatherers: The Missing Link in Java Collections
 #### by Todd Ginsberg
 
-Monday, July 28, 2025
+Monday, September 22, 2025
 
 At Deutsche Bank
 
 --slide--
 
-# KCDC 2025
+# DevNexus
 
-* August 13-15 @ KCMO
-* Tickets on Sale Now
-* https://kcdc.info
+* March 4-6, 2026 @ Atlanta, GA
+* Run by AJUG
 
+--slide--
+
+# JavaOne
+
+* March 17-19, 2026 @ Bay Area, CA
 
 --slide--
 
@@ -44,5 +48,5 @@ At Deutsche Bank
 * Expand your network
 * Become a leader in the community
 * Personal and professional growth
-* Looks great on a résumé and makes you a hit at parties
+* Looks great on a r&eacute;sum&eacute; and makes you a hit at parties
 

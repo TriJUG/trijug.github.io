@@ -17,7 +17,7 @@ x-x-slide-x-x
 
 ### Sponsor
 
-# june23.trijug.dev
+# august25.trijug.dev
 
 <img src="images/logos/jetbrains.png" style="border:none; box-shadow:none; background:white;"/>
 
