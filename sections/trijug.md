@@ -22,7 +22,7 @@ August 25, 2025
 
 # Next Meetup
 
-## Stream Gatherers: The Missing Link in Java Collections
+## Stream Gatherers: The Missing Link in Java Streams
 #### by Todd Ginsberg
 
 Monday, September 22, 2025
